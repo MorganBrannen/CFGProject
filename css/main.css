@@ -18,8 +18,8 @@ nav {
 
 li {
     display: inline;
-
 }
+
 ul {
     list-style-type: none;
 }
@@ -118,3 +118,35 @@ main {
 img {
     padding-top: 25px;
 }
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 8px 0;
+    resize: vertical;
+    display: inline-block;
+    text-align: left;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: coral;
+    color: black;
+    padding: 5px;
+    margin: 8px 0;
+    border: 2px solid black;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.container {
+    width: 40%;
+    border-radius: 4px;
+    border: 2px solid black; 
+    padding: 10px;
+    background-color: white;
+}
+
