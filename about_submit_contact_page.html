@@ -54,8 +54,24 @@
     <h1>Contact Us</h1>
 </div>
 
-<div>
-<p>I agree for my story to be puublished anonymously</p>    
+<div class="container">
+    <form action="/action_page.php">
+        <label for="fname"> First Name </label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name...">
+
+        <label for="email"> Email Address </label>
+        <input type="text" id="email" name="emailaddress" placeholder="Your email address...">
+
+        <label for="story"> Your story </label>
+        <textarea id="story" name="yourstory" placeholder="Write your story..." style="height:200px"></textarea>
+
+        <label for="consent"> I consent to my story being published anonymously </label>
+        <input type="checkbox" id="consent" name="iconsenttomystorybeingpublishedanonymously">
+
+        <input type="submit" value="Submit">
+
+    </form>
+
 </div>
 
 
