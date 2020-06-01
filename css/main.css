@@ -43,16 +43,15 @@ header{
     flex-direction: row;
 }
 
-.flexContainer0 {
+.container0 {
     display: flex;
-    padding-left: 380px;
-    padding-right: 250px;
-    padding-top: 5px;
+    justify-content: center;
+    align-items: center;
     border: 10px white;
     margin: 50px;
     font-size: 150%;
     flex-wrap: wrap;
-    align-content: flex-end
+    align-content: flex-end;
 }
 
 ul{
