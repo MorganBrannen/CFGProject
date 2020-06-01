@@ -20,9 +20,6 @@ li {
     display: inline;
 }
 
-ul {
-    list-style-type: none;
-}
 .liststyle{
     display: inline;
 }
@@ -119,6 +116,23 @@ img {
     padding-top: 25px;
 }
 
+.container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+
+.box {
+    width: 500px;
+    height: 400px;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 40px;
+    overflow: hidden;
+    border-radius: 5px;
+  }
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
@@ -142,11 +156,21 @@ input[type=submit] {
     display: inline-block;
 }
 
-.container {
+.container2 {
+    margin:auto;
     width: 40%;
     border-radius: 4px;
     border: 2px solid black; 
     padding: 10px;
     background-color: white;
 }
+
+h1 {
+    text-align: center;
+}
+
+.message {
+    text-align: center;
+}
+
 
