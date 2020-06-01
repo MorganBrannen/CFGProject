@@ -139,3 +139,33 @@ h1 {
     margin-top: 30px;
   }
 
+
+.flex-container {
+    display: flex;
+    flex-flow: row nowrap;
+    flex: auto;
+    justify-content: space-evenly;
+    height: auto;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+.image {
+    flex: auto;
+    padding: 40px;
+}
+
+.story {
+    flex: auto;
+    padding: 10px;
+    
+}
+
+.flex-container2 {
+    display: flex;
+    flex-flow: row-reverse nowrap;
+    flex: auto;
+    justify-content: space-evenly;
+    height: auto;
+    align-items: stretch;
+    align-content: stretch;
