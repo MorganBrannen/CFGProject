@@ -60,6 +60,11 @@ header{
     align-content: flex-end;
 }
 
+.category {
+    width: 500px;
+    height: 500px;
+}
+
 ul{
     list-style-type: none;
     margin: 0;
@@ -69,19 +74,12 @@ ul{
     width :100%;
 }
 
-main {
-    width: 916px;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
-
 .container1 {
     display: flex;
     flex-direction: row;
     justify-content: center;
   }
   
-
 .box {
     width: 500px;
     height: 400px;
