@@ -173,4 +173,15 @@ h1 {
     text-align: center;
 }
 
+.socialmedia {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    border-radius: 5px;
+    border: 2px solid black; 
+    padding: 10px;
+    background-color: white;
+    margin-top: 30px;
+  }
 
