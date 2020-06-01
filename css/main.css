@@ -8,7 +8,8 @@
 }
 body{
  background-color: bisque;
- color: ivory;
+ color: black;
+
 }
 
 nav {
@@ -52,7 +53,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 10px white;
+    border: 10px rgb(235, 178, 109);
     margin: 50px;
     font-size: 150%;
     flex-wrap: wrap;
@@ -85,7 +86,7 @@ main {
     width: 500px;
     height: 400px;
     padding: 15px;
-    border: 2px solid black;
+    border: 2px solid ivory;
     margin: 40px;
     overflow: hidden;
     border-radius: 5px;
@@ -94,13 +95,14 @@ main {
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
-    border: 2px solid black;
+    border: 2px solid ivory;
     border-radius: 5px;
     box-sizing: border-box;
     margin: 8px 0;
     resize: vertical;
     display: inline-block;
     text-align: left;
+    color: black;
 }
 
 input[type=submit] {
@@ -109,7 +111,7 @@ input[type=submit] {
     color: black;
     padding: 5px;
     margin: 8px 0;
-    border: 2px solid black;
+    border: 2px solid ivory;
     border-radius: 4px;
     display: inline-block;
 }
@@ -120,7 +122,7 @@ input[type=submit] {
     border-radius: 4px;
     border: 2px solid black; 
     padding: 10px;
-    background-color: white;
+    background-color: bisque;
 }
 
 h1 {
