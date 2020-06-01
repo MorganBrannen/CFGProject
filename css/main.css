@@ -9,7 +9,6 @@
 body{
  background-color: bisque;
  color: black;
-
 }
 
 nav {
@@ -39,7 +38,7 @@ header{
     justify-content: center;
 }
 
-.introText {
+.introtext {
     color: ivory;
     padding-left: 300px;
     padding-right: 150px;
@@ -47,6 +46,7 @@ header{
     font-size: 150%;
     font-weight: bolder;
     flex-direction: row;
+    justify-content: center;
 }
 
 .container0 {
