@@ -153,12 +153,13 @@ h1 {
 .image {
     flex: auto;
     padding: 40px;
+    color: black;
 }
 
 .story {
     flex: auto;
     padding: 10px;
-    
+    color: black;
 }
 
 .flex-container2 {
