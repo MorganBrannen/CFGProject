@@ -31,6 +31,14 @@ li {
 header{
     align-items: center;
     justify-content: center;
+    background-image: url("../img/Background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: 100%, 100%;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
 }
 
 .introText {
@@ -148,7 +156,7 @@ h1 {
     height: auto;
     align-items: stretch;
     align-content: stretch;
-    background-color: rgb(223, 193, 208);
+    background-color: rgb(241, 237, 193);
 }
 
 .image {
@@ -172,5 +180,5 @@ h1 {
     height: auto;
     align-items: stretch;
     align-content: stretch;
-    background-color: rgb(182, 215, 236);
+     background-color: rgb(215, 229, 238);
 }
