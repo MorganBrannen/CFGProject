@@ -1,16 +1,22 @@
 .homepage{
     font-family: 'Amatic SC';
     color: ivory;
-    background-image: url("./img/Background.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-image: 100% 100%; 
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
 }
 
-.background {
+.homepage: :before {
+    background-image: url("./img/Background.jpg");
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
     opacity: 0.5;
 }
-
 
 body{
  background-color: bisque;
