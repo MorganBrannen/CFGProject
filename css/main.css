@@ -6,6 +6,12 @@
     background-attachment: fixed;
     background-image: 100% 100%; 
 }
+
+.background {
+    opacity: 0.5;
+}
+
+
 body{
  background-color: bisque;
  color: black;
@@ -19,18 +25,11 @@ nav {
     font-size: 230%;
     color: ivory;
     float: left;
+    background-color: burlywood;
 }
 
 li {
     display: inline;
-}
-
-.liststyle{
-    display: inline;
-}
-
-.liststyle2{
-    list-style-type: upper-alpha;
 }
 
 header{
