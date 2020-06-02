@@ -14,8 +14,6 @@ body{
  color: black;
  font-family: 'Amatic SC';
  font-size: large;
- padding: 0;
- margin: 0;
 }
 
 li {
@@ -50,7 +48,8 @@ header{
     font-size: 150%;
     font-weight: bolder;
     padding: 10px;
-    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
     position: absolute;
     flex-direction: row;
     justify-content: center;
