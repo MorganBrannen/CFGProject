@@ -31,7 +31,7 @@ li {
     display: inline;
 }
 
-ul{
+nav ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -45,7 +45,7 @@ ul{
     height: 50px;
     width: 100%;
     border: 1px solid white;
-    overflow: hidden;
+    z-index: 100;
 
 }
 
