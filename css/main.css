@@ -14,6 +14,8 @@ body{
  color: black;
  font-family: 'Amatic SC';
  font-size: large;
+ padding: 0;
+ margin: 0;
 }
 
 li {
@@ -35,7 +37,6 @@ nav ul{
     width: 100%;
     border: 1px solid white;
     z-index: 100;
-
 }
 
 header{
