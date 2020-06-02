@@ -59,7 +59,7 @@ header{
     justify-content: center;
     align-items: center;
     border: 10px rgb(235, 178, 109);
-    margin: 50px 50px 100px 50px;
+    margin: 10px;
     font-size: 150%;
     flex-wrap: wrap;
     align-content: flex-end;
