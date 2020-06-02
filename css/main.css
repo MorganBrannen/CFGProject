@@ -1,6 +1,6 @@
 .homepage {
     font-family: 'Amatic SC';
-    color: ivory;
+    color: white;
     position: relative;
     height: 100vh;
     width: 100%;
@@ -27,13 +27,13 @@ body{
 
 nav {
     display: block;
-    padding-left: 75px;
     margin: auto;
     text-align: center;
     font-size: 230%;
-    color: ivory;
+    color:white;
     float: left;
     background-color: burlywood;
+    height: 50px;
 }
 
 li {
