@@ -9,17 +9,6 @@
     justify-content: center; 
 }
 
-.homepage: :before {
-    content: "";
-    background-size: cover;
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    bottom: 0px;
-    left: 0px;
-    opacity: 0.5;
-}
-
 body{
  background-color: bisque;
  color: black;
@@ -54,13 +43,12 @@ header{
     justify-content: center;
 }
 
-.introtext {
+.cr p {
     color: ivory;
-    padding-left: 300px;
-    padding-right: 150px;
-    padding-top: 5px;
+    font-family: 'Amatic SC';
     font-size: 150%;
     font-weight: bolder;
+    position: absolute;
     flex-direction: row;
     justify-content: center;
 }
