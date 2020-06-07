@@ -40,6 +40,8 @@ nav ul{
     height: 50px;
     width: 100%;
     border: 1px solid white;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .anchor {
