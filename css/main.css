@@ -127,7 +127,7 @@ input[type=text], select, textarea {
 
 input[type=submit] {
     width: 100%;
-    background-color: coral;
+    background-color: rgb(249, 159, 127);
     color: black;
     padding: 5px;
     margin: 8px 0;
