@@ -36,10 +36,10 @@ nav ul{
     
 }
 
-header{
-    align-items: center;
-    justify-content: center;
+.anchor {
+    padding-top: 50px;
 }
+
 
 .cr p {
     color: ivory;
