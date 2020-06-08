@@ -113,6 +113,10 @@ nav ul{
     border-radius: 5px;
   }
 
+.box img {
+    align:center;
+}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
