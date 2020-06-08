@@ -114,7 +114,8 @@ nav ul{
   }
 
 .box img {
-    align:center;
+  display: flex;
+  justify-content: center;
 }
 
 input[type=text], select, textarea {
