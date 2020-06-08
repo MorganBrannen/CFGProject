@@ -111,11 +111,11 @@ nav ul{
     margin: 40px;
     overflow: hidden;
     border-radius: 5px;
+    text-align: center;
   }
 
-.box img {
-    display: flex;
-    justify-content: center;
+.box p, h2 {
+    text-align: left;
 }
 
 input[type=text], select, textarea {
