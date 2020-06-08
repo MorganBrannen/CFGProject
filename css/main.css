@@ -82,6 +82,7 @@ nav ul{
     align-items: center;
     border: 10px rgb(235, 178, 109);
     margin: 10px;
+    height: 600px
     font-size: 150%;
     flex-wrap: wrap;
     align-content: flex-end;
