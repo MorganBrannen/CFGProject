@@ -6,12 +6,6 @@
     width: 100%; 
 }
 
-
-.story a {
-    color: sienna;
-    text-decoration: none;
-}
-
 a {
     color: white;
     text-decoration: none;
@@ -208,6 +202,11 @@ h1 {
     padding: 10px;
     color: black;
     font-size: large;
+}
+
+.story a:link {
+    color: sienna;
+    text-decoration: none;
 }
 
 .flex-container2 {
