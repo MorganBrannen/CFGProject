@@ -197,6 +197,12 @@ h1 {
     text-align: left;
 }
 
+.image img {
+    max-width: 100%;
+    height: auto;
+}
+
+
 .story {
     flex: auto;
     padding: 10px;
