@@ -204,7 +204,7 @@ h1 {
     font-size: large;
 }
 
-.story a:link {
+.story a {
     color: chocolate;
     text-decoration: none;
 }
