@@ -205,8 +205,12 @@ h1 {
 }
 
 .story a:link {
-    color: sienna;
+    color: chocolate;
     text-decoration: none;
+}
+
+.story a:hover {
+    text-decoration: underline;
 }
 
 .flex-container2 {
