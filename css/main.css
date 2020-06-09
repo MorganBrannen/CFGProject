@@ -120,6 +120,10 @@ nav ul{
     margin-right: auto;
 }
 
+.names {
+    text-align: center;
+}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
