@@ -204,6 +204,11 @@ h1 {
     font-size: large;
 }
 
+.story a {
+    color: sienna;
+    text-decoration: none;
+}
+
 .flex-container2 {
     display: flex;
     flex-flow: row-reverse nowrap;
