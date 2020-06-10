@@ -752,7 +752,7 @@ h1 {
     z-index: 99;
     border: none;
     outline: none;
-    background-color: transparent;
+    background-color: transparent rgb(253, 206, 148);
     color: chocolate;
     cursor: pointer;
     padding: 15px;
@@ -762,7 +762,7 @@ h1 {
 }
 
 #myBtn:hover {
-    background-color: rgb(253, 206, 148);
+    background-color: rgba(255, 252, 248, 0.774) ;
 }
 
 }
