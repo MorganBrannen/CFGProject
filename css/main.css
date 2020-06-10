@@ -181,8 +181,8 @@ h1 {
 
 .flex-container {
     display: flex;
-    flex-flow: row nowrap;
-    flex: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     height: auto;
     align-items: stretch;
@@ -216,8 +216,8 @@ h1 {
 
 .flex-container2 {
     display: flex;
-    flex-flow: row-reverse nowrap;
-    flex: auto;
+    flex-direction: reverse row;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     height: auto;
     align-items: stretch;
