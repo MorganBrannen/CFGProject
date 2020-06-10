@@ -87,6 +87,7 @@ nav ul{
     font-size: 150%;
     flex-wrap: wrap;
     align-content: flex-end;
+    background-image: image();
 }
 
 .category {
@@ -195,6 +196,9 @@ h1 {
     padding: 40px;
     color: black;
     text-align: left;
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
 }
 
 
@@ -224,3 +228,4 @@ h1 {
     align-content: stretch;
     background-color:  rgb(255, 246, 235);
 }
+
